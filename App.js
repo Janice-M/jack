@@ -1,7 +1,7 @@
 function Profile() {
   return (
     <img
-    src="/home/user/Documents/stdy/golfy/assets/lewishamilton.jpeg"
+    src="assets/lewishamilton.jpeg"
     alt="Lewis Hamilton"
     />
   );
@@ -13,8 +13,9 @@ export default function Gallery(){
       <h1>The Best Formula One Driver</h1>
       <Profile />
       <Profile />
-      <Profile />
-      <Profile />
+      <p>Lewis Hamilton is a phenomenal Driver </p>
+      
+      
 
     </section>
   );
