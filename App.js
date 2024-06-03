@@ -1,7 +1,7 @@
 function Profile() {
   return (
     <img
-    src="https://imgur.com/a/xu2mpA4"
+    src="/home/user/Documents/stdy/golfy/assets/lewishamilton.jpeg"
     alt="Lewis Hamilton"
     />
   );
