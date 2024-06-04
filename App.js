@@ -1,4 +1,4 @@
-import Profile from "./gallery";
+import Gallery from "./gallery";
 
 function Profile() {
   return (
